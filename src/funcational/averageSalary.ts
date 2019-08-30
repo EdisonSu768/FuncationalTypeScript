@@ -1,4 +1,4 @@
-import { Department, Employee } from "./model";
+import { Employee } from "../model";
 
 type Predicate = (e: Employee) => boolean;
 

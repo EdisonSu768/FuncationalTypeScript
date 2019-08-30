@@ -1,4 +1,4 @@
-import { Department, Employee } from "./model";
+import { Department, Employee } from "../model";
 
 export function averageSalary(
   employees: Employee[],

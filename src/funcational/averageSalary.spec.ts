@@ -1,5 +1,6 @@
+import { Department, Employee } from "../model";
+
 import { averageSalary } from "./averageSalary";
-import { Department, Employee } from "./model";
 
 describe("Functional average salary", () => {
   const empls = [
